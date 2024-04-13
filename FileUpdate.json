@@ -5,7 +5,9 @@
 {
 
          "name": "เซิร์ฟเวอร์หลัก TH Readyidc",
-         "url": "https://raw.githubusercontent.com/gdpmat/vpnxi/main/main-server.ovpn"
+         "url": "https://raw.githubusercontent.com/gdpmat/vpnxi/main/main-server.ovpn",
+         "name": "สำหรับโปรเสริม Ais play",
+         "url": "https://raw.githubusercontent.com/gdpmat/vpnxi/main/ais-play.ovpn"
 }
 
 
