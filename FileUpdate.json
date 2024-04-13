@@ -1,15 +1,16 @@
 {
   "files": [
     {
-      "name": "สำหรับโปรเสริม Ais play",
-      "url": "https://raw.githubusercontent.com/gdpmat/vpnxi/main/ais-play.ovpn"
-    },
-    {
       "name": "เซิร์ฟเวอร์หลัก TH Readyidc",
       "url": "https://raw.githubusercontent.com/gdpmat/vpnxi/main/main-server.ovpn"
+    },
+    {
+      "name": "สำหรับโปรเสริม Ais play",
+      "url": "https://raw.githubusercontent.com/gdpmat/vpnxi/main/ais-play.ovpn"
     }
   ],
-  "message":"ยินดีต้อนรับเข้าสู่ VPNXI
+  "message":
+"ยินดีต้อนรับเข้าสู่ VPNXI
 💬เมื่อเห็นข้อความอัปเดตนี้
 🆗กรุณากด UPDATE เพื่ออัปเดต
 ⏳และรอจนกว่าจะอัปเดตเสร็จ
